@@ -80,5 +80,3 @@ python -m venv venv
 pip install django django-debug-toolbar django-crispy-forms pillow
 python manage.py migrate
 ```
-
-Pronto!
