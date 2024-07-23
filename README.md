@@ -1,5 +1,4 @@
 # Projeto_Ecommerce
-
 - Bem-vindo ao repositório do projeto eCommerce! Este projeto é uma aplicação web desenvolvida utilizando Django e Python, que implementa um sistema de comércio eletrônico completo com diversas funcionalidades.
 
 # Linguagens e Ferramentas:
@@ -9,6 +8,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 # Funcionalidades:
 
 ## Autenticação de Usuário:
@@ -35,18 +35,16 @@
 - Adicionar itens ao carrinho de compras.
 - Consultar e gerenciar seus pedidos.
 - Atualizar suas informações de perfil.
-- Utilizar a funcionalidade de validação de CPF ao criar ou atualizar uma conta.
 
-  
 # Estrutura do Projeto
-loja/: Aplicação responsável pelo gerenciamento da estrutura da loja.
-midia/: Pasta com as Imagens dos Produtos
-pedidos/: Aplicação responsável pelo gerenciamento de pedidos.
-produtos/: Aplicação responsável pelo gerenciamento de pedidos.
-perfil/: Aplicação responsável pela autenticação e gerenciamento de usuários.
-templates/: Diretório contendo os templates HTML.
-utils/: Diretório contendo os arquivos de validação/formatação
-static/: Diretório contendo arquivos estáticos (CSS, JavaScript, imagens).
+- loja/: Aplicação responsável pelo gerenciamento da estrutura da loja.
+- midia/: Pasta com as Imagens dos Produtos
+- pedidos/: Aplicação responsável pelo gerenciamento de pedidos.
+- produtos/: Aplicação responsável pelo gerenciamento de pedidos.
+- perfil/: Aplicação responsável pela autenticação e gerenciamento de usuários.
+- templates/: Diretório contendo os templates HTML.
+- utils/: Diretório contendo os arquivos de validação/formatação
+- static/: Diretório contendo arquivos estáticos (CSS, JavaScript, imagens).
 
 # Como Configurar o Projeto:
 Abaixo uma lista de comandos para clonar e configurar este projeto na sua 
