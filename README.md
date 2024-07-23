@@ -88,4 +88,4 @@ python manage.py migrate
 ```
 
 # Creditos
-- Projeto feito junto com o professor Luiz Otavio [https://github.com/luizomf]
+- Projeto feito junto com o Professor Luiz Otavio [https://github.com/luizomf]
