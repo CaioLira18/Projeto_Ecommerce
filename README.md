@@ -21,6 +21,24 @@
 ## Validação de CPF
 - CPF Único e Válido: O sistema valida se o CPF fornecido é único e válido dentro do banco de dados.
 
+# Uso
+## Após iniciar o servidor, você pode acessar a aplicação no navegador através do endereço http://127.0.0.1:8000/. A partir daí, você poderá:
+- Criar uma nova conta ou fazer login em uma conta existente.
+- Adicionar itens ao carrinho de compras.
+- Consultar e gerenciar seus pedidos.
+- Atualizar suas informações de perfil.
+- Utilizar a funcionalidade de validação de CPF ao criar ou atualizar uma conta.
+
+  
+# Estrutura do Projeto
+loja/: Aplicação responsável pelo gerenciamento da estrutura da loja.
+midia/: Pasta com as Imagens dos Produtos
+pedidos/: Aplicação responsável pelo gerenciamento de pedidos.
+produtos/: Aplicação responsável pelo gerenciamento de pedidos.
+perfil/: Aplicação responsável pela autenticação e gerenciamento de usuários.
+templates/: Diretório contendo os templates HTML.
+utils/: Diretório contendo os arquivos de validação/formatação
+static/: Diretório contendo arquivos estáticos (CSS, JavaScript, imagens).
 
 # Como Configurar o Projeto:
 Abaixo uma lista de comandos para clonar e configurar este projeto na sua 
