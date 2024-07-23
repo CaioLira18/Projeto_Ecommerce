@@ -53,7 +53,7 @@ máquina local:
 - Instalar git (Windows, Linux e Mac) e depois:
 
 ```
-git clone https://github.com/luizomf/django-simple-ecommerce.git
+git clone https://github.com/CaioLira18/Projeto_Ecommerce
 ```
 
 - Para **Windows**:
