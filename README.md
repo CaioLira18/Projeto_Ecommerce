@@ -2,7 +2,15 @@
 
 - Bem-vindo ao repositório do projeto eCommerce! Este projeto é uma aplicação web desenvolvida utilizando Django e Python, que implementa um sistema de comércio eletrônico completo com diversas funcionalidades.
 
-# Funcionalidades
+# Linguagens e Ferramentas:
+<code><img height="30" src="https://inspector.dev/wp-content/uploads/2023/04/logo-python-django.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+# Funcionalidades:
+
 ## Autenticação de Usuário:
 - Login: Os usuários podem fazer login em suas contas utilizando um nome de usuário e senha.
 - Logout: Os usuários podem fazer logout de suas contas.
