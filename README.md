@@ -86,3 +86,6 @@ python -m venv venv
 pip install django django-debug-toolbar django-crispy-forms pillow
 python manage.py migrate
 ```
+
+# Creditos
+- Projeto feito junto com o professor Luiz Otavio [https://github.com/luizomf]
